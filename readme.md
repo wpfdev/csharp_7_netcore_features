@@ -2,9 +2,9 @@
 
 ## Install and Run
 
-First of all, for playing this code you need to install [.NET Core Runtime](https://dotnet.microsoft.com/download/dotnet-core/3.0)
-Next step, open a root directory of this project in any terminal (depends of your OS) and run command: dotnet run
-Explore the code and learn new features in C# 7.
+First of all, for playing this code you need to install [.NET Core Runtime](https://dotnet.microsoft.com/download/dotnet-core/3.0)</br>
+Next step, open a root directory of this project in any terminal (depends of your OS) and run command: dotnet run<br>
+Explore the code and learn new features in C# 7.<br>
 
 ## Contributing
 
